@@ -1,4 +1,4 @@
-# Triangle Recognition (Java)
+# Triangle Classifier (Java)
 
 A Java programming task demonstrating **object-oriented programming (OOP)** concepts through the implementation of two interacting classes. The project classifies triangles as **Equilateral**, **Isosceles**, or **Scalene** based on the lengths of their three sides.
 
